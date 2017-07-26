@@ -7,21 +7,21 @@ Authors:
 * Tal Leming (Type Supply)
 * Erik van Blokland (LettError)
 
-Copyright ©2009 [Mozilla Corporation](http://www.mozilla.com/), [Type Supply](http://www.typesupply.com/), and [LettError](http://www.letterror.com/). All rights reserved.
+Copyright ©2009 [Mozilla Corporation](https://www.mozilla.org), [Type Supply](https://www.typesupply.com/), and [LettError](http://letterror.com/). All rights reserved.
 
 * * *
 
 ## Version history
 
-[Draft of 2009-10-03](http://people.mozilla.org/~jkew/woff/woff-2009-10-03.html)
+[Draft of 2009-10-03](https://web.archive.org/web/20160819054305/http://people.mozilla.org/~jkew/woff/woff-2009-10-03.html)
 
 Corrected editing slip in Font Data Tables section; no change in the actual format specification.
 
-[Draft of 2009-09-16](http://people.mozilla.org/~jkew/woff/woff-2009-09-16.html)
+[Draft of 2009-09-16](https://web.archive.org/web/20160819055736/http://people.mozilla.org/~jkew/woff/woff-2009-09-16.html)
 
-First version posted on [http://people.mozilla.org/~jkew/woff/](http://people.mozilla.org/~jkew/woff/).
+First version posted on [http://people.mozilla.org/~jkew/woff/](https://web.archive.org/web/20170630235618/https://people-mozilla.org/~jkew/woff/).
 
-Some earlier drafts, now superseded, were circulated via the www-font mailing list and on http://www.jfkew.plus.com/woff/.
+Some earlier drafts, now superseded, were circulated via the www-font mailing list and on [http://www.jfkew.plus.com/woff/](https://web.archive.org/web/20170630235618/https://people-mozilla.org/~jkew/woff/).
 
 * * *
 
@@ -337,13 +337,13 @@ The licensee of the font. This element is optional. If present, it must be a chi
 
 1. TrueType
 
-   [Apple TrueType specification](http://developer.apple.com/textfonts/TTRefMan/index.html). TrueType is a registered trademark of Apple Inc.
+   [Apple TrueType specification](https://developer.apple.com/fonts/TrueType-Reference-Manual/). TrueType is a registered trademark of Apple Inc.
 
 <div id="fn-2"></div>
 
 2. OpenType
 
-   [Microsoft OpenType specification](http://www.microsoft.com/typography/otspec/). OpenType is a registered trademark of Microsoft Corporation.
+   [Microsoft OpenType specification](https://www.microsoft.com/en-us/Typography/OpenTypeSpecification.aspx). OpenType is a registered trademark of Microsoft Corporation.
 
 <div id="fn-3"></div>
 
@@ -355,29 +355,29 @@ The licensee of the font. This element is optional. If present, it must be a chi
 
 4. RFC 2119
 
-   [RFC 2119](http://tools.ietf.org/html/rfc2119) (Key words for use in RFCs to Indicate Requirement Levels)
+   [RFC 2119](https://tools.ietf.org/html/rfc2119) (Key words for use in RFCs to Indicate Requirement Levels)
 
 <div id="fn-5"></div>
 
 5. compress2
 
-   [zlib compress2() function](http://refspecs.freestandards.org/LSB_3.0.0/LSB-Core-generic/LSB-Core-generic/zlib-compress2-1.html)
+   [zlib compress2() function](http://refspecs.linuxbase.org/LSB_3.0.0/LSB-PDA/LSB-PDA/zlib-compress2-1.html)
 
 <div id="fn-6"></div>
 
 6. uncompress
 
-   [zlib uncompress() function](http://refspecs.freestandards.org/LSB_3.0.0/LSB-Core-generic/LSB-Core-generic/zlib-uncompress-1.html)
+   [zlib uncompress() function](http://refspecs.linuxbase.org/LSB_5.0.0/LSB-Core-generic/LSB-Core-generic/zlib-uncompress-1.html)
 
 <div id="fn-7"></div>
 
 7. ZLIB
 
-   [RFC 1950](http://tools.ietf.org/html/rfc1950) (ZLIB Compressed Data Format Specification)
+   [RFC 1950](https://tools.ietf.org/html/rfc1950) (ZLIB Compressed Data Format Specification)
 
 <div id="fn-8"></div>
 
-8. XML metadata"
+8. XML metadata
 
    It is intended that the XML metadata will not be constrained by a specific DTD, but may be extended by font vendors according to their requirements. However, only metadata elements that conform to a published definition will have the potential to be widely supported (e.g., presented to users on request by a typical user agent).
 
@@ -385,13 +385,13 @@ The licensee of the font. This element is optional. If present, it must be a chi
 
 9. Language tags
 
-   [IANA Language Subtag Registry](http://www.iana.org/assignments/language-subtag-registry)
+   [IANA Language Subtag Registry](http://www.iana.org/assignments/language-subtag-registry/language-subtag-registry)
 
 <div id="fn-10"></div>
 
 10. RFC 4647
 
-    [RFC 4647](http://tools.ietf.org/html/rfc4647) (Matching of Language Tags)
+    [RFC 4647](https://tools.ietf.org/html/rfc4647) (Matching of Language Tags)
 
 * * *
 
